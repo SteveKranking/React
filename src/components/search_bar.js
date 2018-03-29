@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import VideoList from './video_list';
 
 class SearchBar extends Component {
     constructor(props) {
